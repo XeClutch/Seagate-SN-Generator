@@ -1,0 +1,6 @@
+c:\users\s7clutch\documents\visual studio 2013\Projects\Seagate SN Generator\Seagate SN Generator\bin\Debug\Seagate SN Generator.exe.config
+c:\users\s7clutch\documents\visual studio 2013\Projects\Seagate SN Generator\Seagate SN Generator\bin\Debug\Seagate SN Generator.exe
+c:\users\s7clutch\documents\visual studio 2013\Projects\Seagate SN Generator\Seagate SN Generator\bin\Debug\Seagate SN Generator.pdb
+c:\users\s7clutch\documents\visual studio 2013\Projects\Seagate SN Generator\Seagate SN Generator\obj\Debug\Seagate SN Generator.csprojResolveAssemblyReference.cache
+c:\users\s7clutch\documents\visual studio 2013\Projects\Seagate SN Generator\Seagate SN Generator\obj\Debug\Seagate SN Generator.exe
+c:\users\s7clutch\documents\visual studio 2013\Projects\Seagate SN Generator\Seagate SN Generator\obj\Debug\Seagate SN Generator.pdb
