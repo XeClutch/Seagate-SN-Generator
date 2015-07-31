@@ -6,6 +6,8 @@ Disclaimer: I am NOT responsible for how you use this tool or the code that lies
 # SN Algorithm Tags
 {#3-5} - This will return either 3 or 4 (picked randomly).
 
-{NRND3} - This will return 3 randomly generated numbers no less than 0 and no greater than 8.
+{ARND6} - This will return 6 randomly generated numbers or characters.
 
 {CRND5} - This will return 5 randomly generated characters.
+
+{NRND3} - This will return 3 randomly generated numbers no less than 0 and no greater than 8.
