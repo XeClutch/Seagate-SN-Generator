@@ -14,10 +14,15 @@ Disclaimer: I am NOT responsible for how you use this tool or the code that lies
 
 # Adding support for another drive
 I've developed an easy-to-use way of adding support for a new drive, follow the instructions below to get started!
+
 1. Compile the program and place the .exe in any folder you want.
+
 2. In the same folder as the .exe, create a new folder called "Drives".
+
 3. In the "Drives" folder that you've just created, create a new .txt document and name it whatever the part/model number the drive it will represent.
+
 4. Use the following template and make sure to remove the arrows: http://pastebin.com/raw.php?i=HbhrhtCN
+
 5. Launch the program and if you did everything correctly you're done!
 
 # Where to get drive algorithms?
